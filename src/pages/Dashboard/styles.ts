@@ -41,8 +41,10 @@ export const Card = styled.div`
 
   h1 {
     margin-top: 14px;
-    font-size: 36px;
+    font-family: Poppins;
+    font-style: normal;
     font-weight: normal;
+    font-size: 36px;
     line-height: 54px;
   }
 `;

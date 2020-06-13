@@ -32,5 +32,10 @@ export const Container = styled.div<ContainerProps>`
         }
       }
     }
+
+    .is-active {
+      padding-bottom: 10px;
+      border-bottom: 0.25rem solid #ff872c;
+    }
   }
 `;
